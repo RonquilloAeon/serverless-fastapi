@@ -1,4 +1,5 @@
 # serverless-fastapi
+A tiny sample FastAPI app that can be deployed to AWS Lambda. Makes use of Cognito to authenticate requests.
 
 ## Prereqs
 This demo requires an API Gateway set up w/ a Cognito User Pool.
